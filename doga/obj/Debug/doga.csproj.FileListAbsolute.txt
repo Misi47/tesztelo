@@ -1,0 +1,7 @@
+C:\Users\2021125\Source\Repos\Misi47\tesztelo\doga\bin\Debug\doga.exe.config
+C:\Users\2021125\Source\Repos\Misi47\tesztelo\doga\bin\Debug\doga.exe
+C:\Users\2021125\Source\Repos\Misi47\tesztelo\doga\bin\Debug\doga.pdb
+C:\Users\2021125\Source\Repos\Misi47\tesztelo\doga\obj\Debug\doga.csproj.AssemblyReference.cache
+C:\Users\2021125\Source\Repos\Misi47\tesztelo\doga\obj\Debug\doga.csproj.CoreCompileInputs.cache
+C:\Users\2021125\Source\Repos\Misi47\tesztelo\doga\obj\Debug\doga.exe
+C:\Users\2021125\Source\Repos\Misi47\tesztelo\doga\obj\Debug\doga.pdb

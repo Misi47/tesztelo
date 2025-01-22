@@ -1,0 +1,7 @@
+C:\Users\2021125\Source\Repos\Misi47\tesztelo\0122\bin\Debug\0122.exe.config
+C:\Users\2021125\Source\Repos\Misi47\tesztelo\0122\bin\Debug\0122.exe
+C:\Users\2021125\Source\Repos\Misi47\tesztelo\0122\bin\Debug\0122.pdb
+C:\Users\2021125\Source\Repos\Misi47\tesztelo\0122\obj\Debug\0122.csproj.AssemblyReference.cache
+C:\Users\2021125\Source\Repos\Misi47\tesztelo\0122\obj\Debug\0122.csproj.CoreCompileInputs.cache
+C:\Users\2021125\Source\Repos\Misi47\tesztelo\0122\obj\Debug\0122.exe
+C:\Users\2021125\Source\Repos\Misi47\tesztelo\0122\obj\Debug\0122.pdb

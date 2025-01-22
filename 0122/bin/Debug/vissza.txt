@@ -1,0 +1,5 @@
+ 0   
+Feri 1200 igen Debrecen 
+Sanyi 2500 nem Debrecen 
+Géza 1000 igen Szeged 
+Kati 4000 igen Debrecen 
